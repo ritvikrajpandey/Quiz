@@ -1,0 +1,82 @@
+[{
+    "question":"Bundesrat is the Parliament of … ",
+    "answer":[
+      {"option":"India","correct":false},
+      {"option":"France","correct":false},
+      {"option":"Germany","correct":true}
+    ]
+  },
+  {
+    "question":"Which among the following cities is the most populated city in the world? ",
+    "answer":[
+      {"option":"Tokyo","correct":true},
+      {"option":"New Delhi","correct":false},
+      {"option":"New York","correct":false}
+    ]
+  },
+  {
+    "question":"Pyramid is located in … ",
+    "answer":[
+      {"option":"Israel","correct":true},
+      {"option":"Egypt","correct":false},
+      {"option":"Iraq","correct":false}
+    ]
+  },
+  {
+    "question":"Adhai Din Ka Jhopda is located in  ",
+    "answer":[
+      {"option":"Udaipur","correct":false},
+      {"option":"Bundi","correct":false},
+      {"option":"Ajmer","correct":true}
+    ]
+  },
+  {
+    "question":"What is Captian America's Shield made of",
+    "answer":[
+      {"option":"Uranium","correct":false},
+      {"option":"Vibranium","correct":true},
+      {"option":"Metal","correct":false}
+    ]
+  },
+  {
+    "question":"Which team won the first Premier League title ",
+    "answer":[
+      {"option":"Everton","correct":false},
+      {"option":"Liverpool","correct":false},
+      {"option":"Manchester United","correct":true}
+    ]
+  },
+  {
+    "question":"Which goalkeeper has best record in Premier League ",
+    "answer":[
+      {"option":"New York","correct":true},
+      {"option":"Chicago","correct":false},
+      {"option":"Petr Cech","correct":false}
+    ]
+  },
+  {
+    "question":"Who scored the fastest goal in EPL history ",
+    "answer":[
+      {"option":"Robert Leewandowski","correct":false},
+      {"option":"Cristiano Ronaldo","correct":false},
+      {"option":"Shane Long","correct":true}
+    ]
+  },
+  {
+    "question":"How many clubs competed in the inaugral Premier League season ",
+    "answer":[
+      {"option":"20","correct":false},
+      {"option":"22","correct":true},
+      {"option":"25","correct":false}
+    ]
+  },
+  {
+    "question":"Which player won the Premier League Golden Boot in 2018-19 ",
+    "answer":[
+      {"option":"Luis Suarez","correct":false},
+      {"option":"James Vardy","correct":false},
+      {"option":"Pierre-Emrik Aubameyang","correct":true}
+    ]
+  }
+
+]
